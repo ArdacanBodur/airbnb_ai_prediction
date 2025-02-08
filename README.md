@@ -33,6 +33,6 @@ This project was created with the contributions of the Artificial Intelligence D
 ![Certificate](https://media-hosting.imagekit.io//2f3eca7264f542c7/01152481722420.png?Expires=1833621218&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=y1TlKmtMc2XcQquDy7slQCvlJyyNHymfkaT5OhlvMJ-GzGSXhzWeHCBnpF6jJ5K7cs9VREUtUc5V6Qy95rN4K7zr6jCHJX8u986DNluaoEw88VVotckZhMqUTAUSqgckefycQvoEuV~m3IxWbh2HNQ9gvqZzZzu-sJk5rDr5YTxL0RDNzVWGAbZY8cCJZBOgrsHdmQJ9j4REId9YVFX0b0PNJVenaomug4ZS82ajleS3Lq0VUwcmwMutMOIe4LyeHUAPCSEPfuszGFb-6u6rOhelWtEFyb8JT8pLtRSNrJzGBAs-ExAtgnFNB9LQA5HYPKVioRWP1mr14KcXpthMgA__)
 
 ## Important Note
-Project notes and code descriptions are in Turkish. However, each week's main code is prepared in English for understandability.
+Project notes and code descriptions are in Turkish. However, machine learning's main code is prepared in English for understandability.
 
 Thank you for viewing my project, which is the first step of my Artificial Intelligence learning journey.
